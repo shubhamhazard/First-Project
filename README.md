@@ -1,1 +1,1 @@
-This is my first project demonstrating asynchronous nature of js.
+This is my first project demonstrating asynchronous nature of java script.
